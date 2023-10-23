@@ -18,7 +18,7 @@ The following **required** functionality is completed:
  
 The following **optional** features are implemented:
 
-- [ ] **Create a UI for tracking averages and trends in metrics**
+- [x] **Create a UI for tracking averages and trends in metrics**
 - [x] **Improve and customize the user interface through styling and coloring**
 - [ ] **Implement orientation responsivity**
 - [ ] **Add a daily photo feature**
@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/SUBOMI123/BitFit1/blob/master/bitfitpart1.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
