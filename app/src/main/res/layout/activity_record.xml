@@ -9,21 +9,21 @@
 
     <EditText
         android:id="@+id/edit_text_exercise_name"
-        android:layout_width="match_parent"
+        android:layout_width="209dp"
         android:layout_height="wrap_content"
-        android:hint="Exercise Name" />
+        android:hint="Name" />
 
     <EditText
         android:id="@+id/edit_text_exercise_duration"
-        android:layout_width="match_parent"
+        android:layout_width="156dp"
         android:layout_height="wrap_content"
-        android:hint="Exercise Duration"
-        />
+        android:hint="Amount / Time (Seconds)" />
 
     <Button
         android:id="@+id/button_save_exercise"
-        android:layout_width="wrap_content"
+        android:layout_width="154dp"
         android:layout_height="wrap_content"
-        android:text="Save Exercise" />
+        android:backgroundTint="@color/black"
+        android:text="Save" />
 
 </LinearLayout>

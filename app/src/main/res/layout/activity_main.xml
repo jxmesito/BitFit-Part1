@@ -12,14 +12,16 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_view"
         android:layout_width="match_parent"
-        android:layout_height="572dp" />
+        android:layout_height="574dp" />
 
     <Button
         android:id="@+id/button"
         android:layout_width="212dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="Record Session" />
+        android:textColor="@color/white"
+        android:backgroundTint="@color/black"
+        android:text="Submit" />
 
     <!-- Floating Action Button to create a new record -->
 
