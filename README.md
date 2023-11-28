@@ -1,25 +1,25 @@
+# Android Project 5 - *Name of App Here*
 
-# Android Project 5 - *BitFit1*
+Submitted by: **Your Name Here**
 
-Submitted by: **Oluwasubomi Bashorun**
+**Name of your app** is a health metrics app that allows users to track ... [TODO] 
 
-**BitFit1** is a health metrics app that allows users to track exercises and the time they sepent doing the exercise 
-Time spent: **72** hours spent in total
+Time spent: **X** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **At least one health metric is tracked (based on user input)**
-  - Chosen metric(s): [Exercise Session]
-- [x] **There is a "create entry" UI that prompts users to make their daily entry**
-- [x] **New entries are saved in a database and then updated in the RecyclerView**
-- [x] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
+- [ ] **At least one health metric is tracked (based on user input)**
+  - Chosen metric(s): `[TODO: FILL ME IN TO GET CREDIT]`
+- [ ] **There is a "create entry" UI that prompts users to make their daily entry**
+- [ ] **New entries are saved in a database and then updated in the RecyclerView**
+- [ ] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
  
 The following **optional** features are implemented:
 
-- [x] **Create a UI for tracking averages and trends in metrics**
-- [x] **Improve and customize the user interface through styling and coloring**
+- [ ] **Create a UI for tracking averages and trends in metrics**
+- [ ] **Improve and customize the user interface through styling and coloring**
 - [ ] **Implement orientation responsivity**
 - [ ] **Add a daily photo feature**
 
@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/SUBOMI123/BitFit1/blob/master/bitfitpart1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
